@@ -194,9 +194,9 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
+baper = '𝐊𝐑𝐈𝐙 𝐒𝐄𝐑 𝐎𝐅𝐂'
 apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+gc_wa_lu = 'https://chat.whatsapp.com/IwOZg4VGdJq4lTH12aPOzc' //join our wabot group 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
